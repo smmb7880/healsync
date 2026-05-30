@@ -73,7 +73,7 @@ HealSync provides informational emergency guidance only and is **not a replaceme
 
 ## 📸 Screenshots
 
-(Add your project screenshots here)
+<img width="1349" height="768" alt="Home Landing Page" src="https://github.com/user-attachments/assets/7bf09625-6327-4c3d-92eb-d35f7c490e7f" />
 
 ---
 
